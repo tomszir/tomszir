@@ -1,12 +1,11 @@
-### Hi there! :wave: I'm Tom.
+## 👋 Introductions
 
-I am an 18 year old from Latvia, working on exciting personal projects.
+Hey there! I am Tom. An 18 year old from Latvia primarily working with **TypeScript** & **Node.js**
 
-🌱 I’m currently learning **Svelte**
+## 📬 Contact Me
 
-🔭 I’m currently mostly working with **React** & **TypeScript**
-
-👯 I’m looking to collaborate on **exciting ideas**
+[Twitter](https://twitter.com/sparrow_but_man) | [Instagram](https://instagram.com/tomszir) | Discord - **RT1O#5682**
+## 💻 GitHub Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tomszir&show_icons=true&theme=gruvbox)
 
