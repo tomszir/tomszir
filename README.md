@@ -13,6 +13,8 @@ My name is Toms and I am currently a student at [RTU DITF](https://www.rtu.lv/lv
 * [VentspilsITC 2020](http://ventspilsitc.com/news/the-international-technology-competition-has-ended-ventspils-it-challenge-2020/) - 3rd place, Team Olimps
 * [RobotHack 2021](https://robothack.co/) - special Rimi award, Team ReciPi
 
+You can find a lot of our hackathon project pitches on our [YouTube channel](https://www.youtube.com/channel/UCaVQR2c5U7n_Nuagf8WXD0w).
+
 ## 💻 Technologies
 
 <p float="left">
